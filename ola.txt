@@ -9,5 +9,5 @@ sete
 oito
 nove 
 dez
-onze
-doze
+opa
+gege
