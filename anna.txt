@@ -1,0 +1,3 @@
+Olá, Anna 
+
+um byte tem oito bits
